@@ -1,0 +1,35 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: BlackWhiteChessAI - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Release/resource.res" /d "NDEBUG" "X:\BlackWhiteChessAI\BlackWhiteChessAI\resource.rc"" 
+Creating temporary file "x:\temp\RSP205.tmp" with contents
+[
+/nologo /ML /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Release/BlackWhiteChessAI.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"X:\BlackWhiteChessAI\BlackWhiteChessAI\BlackWhiteChessAI.cpp"
+]
+Creating command line "cl.exe @x:\temp\RSP205.tmp" 
+Creating temporary file "x:\temp\RSP206.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/BlackWhiteChessAI.pdb" /machine:I386 /out:"Release/BlackWhiteChessAI.exe" 
+.\Release\BlackWhiteChessAI.obj
+.\Release\resource.res
+]
+Creating command line "link.exe @x:\temp\RSP206.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+BlackWhiteChessAI.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+BlackWhiteChessAI.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

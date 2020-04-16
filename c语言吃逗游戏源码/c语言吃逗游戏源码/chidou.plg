@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: chidou - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ASUS\AppData\Local\Temp\RSP379F.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/chidou.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\study\【017】62套C语言项目源码大全\c语言项目源码大全\c语言吃逗游戏源码\c语言吃逗游戏源码\chidou.c"
+]
+Creating command line "cl.exe @C:\Users\ASUS\AppData\Local\Temp\RSP379F.tmp" 
+<h3>Output Window</h3>
+Compiling...
+chidou.c
+e:\study\【017】62套c语言项目源码大全\c语言项目源码大全\c语言吃逗游戏源码\c语言吃逗游戏源码\chidou.c(3) : fatal error C1083: Cannot open include file: 'graphics.h': No such file or directory
+执行 cl.exe 时出错.
+
+
+
+<h3>Results</h3>
+chidou.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

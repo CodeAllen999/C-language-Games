@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: mainst - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ASUS\AppData\Local\Temp\RSPC884.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/mainst.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\study\【017】62套C语言项目源码大全\c语言项目源码大全\c语言Turbo C下写的俄罗斯方块\c语言Turbo C下写的俄罗斯方块\mainst.c"
+]
+Creating command line "cl.exe @C:\Users\ASUS\AppData\Local\Temp\RSPC884.tmp" 
+<h3>Output Window</h3>
+Compiling...
+mainst.c
+e:\study\【017】62套c语言项目源码大全\c语言项目源码大全\c语言turbo c下写的俄罗斯方块\c语言turbo c下写的俄罗斯方块\mainst.c(4) : fatal error C1083: Cannot open include file: 'graphics.h': No such file or directory
+执行 cl.exe 时出错.
+
+
+
+<h3>Results</h3>
+mainst.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

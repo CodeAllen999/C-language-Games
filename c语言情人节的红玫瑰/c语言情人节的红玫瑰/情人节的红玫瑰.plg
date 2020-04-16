@@ -1,0 +1,32 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 情人节的红玫瑰 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\123\AppData\Local\Temp\RSPB1F.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/情人节的红玫瑰.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\123\Desktop\c语言源码\情人节的红玫瑰\情人节的红玫瑰.cpp"
+]
+Creating command line "cl.exe @C:\Users\123\AppData\Local\Temp\RSPB1F.tmp" 
+Creating temporary file "C:\Users\123\AppData\Local\Temp\RSPB20.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/情人节的红玫瑰.pdb" /debug /machine:I386 /out:"Debug/情人节的红玫瑰.exe" /pdbtype:sept 
+".\Debug\情人节的红玫瑰.obj"
+]
+Creating command line "link.exe @C:\Users\123\AppData\Local\Temp\RSPB20.tmp"
+<h3>Output Window</h3>
+Compiling...
+情人节的红玫瑰.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+情人节的红玫瑰.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
